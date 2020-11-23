@@ -1,0 +1,26 @@
+# Site settings
+title: Madeira
+locale: se
+partner:
+  name: Bloemeneiland met unieke natuur
+  link: http://www.visitmadeira.pt/
+
+description: >
+  De archipel Madeira ligt midden in de Atlantische Oceaan voor de noordwestkust van Afrika. Naast het gelijknamige hoofdeiland omvat het ook Porto Santo, Ilhas Desertas en Ilhas Selvagens
+
+
+
+# file paths
+url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/se/2020/madeira" # the subpath of your site, e.g. /blog/
+img:     "/se/2020/madeira/_assets/img"
+css:     "/se/2020/madeira/_assets/css"
+js:      "/se/2020/madeira/_assets/js"
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules, gulpfile.js, package.json, package-lock.json, js/script.js]
+keep_files: [_assets]
+sass:
+    sass_dir: css
+    style: compressed

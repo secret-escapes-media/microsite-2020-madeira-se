@@ -1,0 +1,166 @@
+- id: one
+  title: Naturfenomen
+  count: "1"
+  nav-title: Natur
+  description: "Madeira förtrollar med ett medelhavsklimat och ett mångfaldigt urval av flora och fauna. Detta tack vare sitt läge nära Golfströmmen, som värmer upp det turkosblåa havsvattnet runt ön till behagliga temperaturer. Öns vulkaniska landskap bidrar till fascinerande sluttningar som kan utforskas under guidade vandringsturer."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: one-first-poi
+        img: bg-img1
+        title: Vandringsleder
+        description: "Madeira imponerar med frodig natur och vackra landskap. En av sevärdheterna på ön är Laurissilva - ett skogsområde som finns med på UNESCO:s världsarvslista, med tjock mossa och stora gamla träd. Vandringslederna levadas är en annan populär aktivitet. Dessa bevattnings&shy;kanaler skapades flera hundratals år sedan i syfte att forsa stora mängder vatten från Madeiras regniga norr ner till söder. Idag kan du vandra längs kanalerna och få se magnifika naturlandskap längs vägen."
+        link: "#poi-link"
+
+      - id: one-second-poi
+        img: bg-img2
+        title: Naturfestivalen
+        description: "Denna festival i Madeira är en sann upplevelse för alla äventyrare. Festivalen går ut på att utforska naturhabitat genom att utöva olika sporter. Du kan delta i gratisaktiviteter varsomhelst på ön - på land, i bergen och i vattnet. Det finns ett brett utbud av sportaktiviteter, med allt från cykelturer på mountainbike till surfing och kanotturer.  "
+        link: "#poi-link"
+
+      - id: one-third-poi
+        img: bg-img3
+        title: För äventyrarna
+        description: "Om du vill uppleva orörd natur i Madeira i kombination med en adrenalinkick, är en kanottur den perfekta aktiviteten för dig. Du kommer att i grupp få paddla genom strömmar och floder, medan du lär dig att bemästra tekniker som att ta dig genom nedsänkta vattenhål, klättra uppför vattenfall och göra hopp ner i vattnet - fantastiska utsikter utlovas här."
+        link: "#poi-link"
+
+      - id: one-fourth-poi
+        img: bg-img4
+        title: Glid över Madeira
+        description: "Har du någonsin velat se hur natursköna berg, kustlinjer och grönska ser ut från ovan? Madeiras morfologiska karaktär ger som tur är ideala förutsättningar för skärmflygning. Nå hisnande höjder med din skärmflygare och njut av den spektakulära utsikten. Nybörjare kan prova på tandemflygning tillsammans med en instruktör."
+        link: "#poi-link"
+
+      - id: one-fifth-poi
+        img: bg-img5
+        title: Genom terräng
+        description: "Den behagliga terrängen på Madeira gör det till en populär destination för långdistanslöpning. Varje år hålls tre olika tävlingar, där professionella långdistanslöpare från hela världen tar sig hit för att få springa genom orörd natur, floder och skogar. "
+        link: "#poi-link"
+
+      - id: one-sixth-poi
+        img: bg-img6
+        title: Madeira på två hjul
+        description: "Madeira må vara ett riktigt paradis för vandring, men ön kan också upplevas lika väl från en cykel. Ta dig fram genom det bergiga landskapet med hjälp av din mountainbike och njut av de fantastiska utsikterna från sluttningarna nedanför, samtidigt som du får din dos av daglig motion. Andas in den krispiga luften och upplev en oförglömlig utflykt."
+        link: "#poi-link"
+
+
+
+
+
+################################################################################
+
+
+
+- id: two
+  title: Det oändliga havet
+  nav-title: Kust
+  count: "2"
+  description: "Eftersom Madeira är en ö mitt i Atlanten, är vyerna av det omringande havet oändlig. Solens strålar ger dess klara, turkosblåa vatten ett glimrande skimmer som väcker en nyfikenhet kring vad som kan finnas under ytan. Du kan gå på en båttur och få se ön från ett annat perspektiv, eller kanske vågar du dyka ner för att se vad som väntar i undervattensvärlden?"
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: two-first-poi
+        img: bg-img1
+        title: Naturligt utformade vattenpooler
+        description: "De naturliga havspoolerna i Porto Moniz och Seixal är en unik sevärdhet i Madeira. Dessa saltvattenpooler är utformade av lavastenar och får sitt vatten direkt från havet. Poolerna, som finns på öns nordkust, erbjuder en förstklassig utsikt över Atlanten och det frodiga växtlivet. Koppla av med en simtur i dessa fascinerande pooler och bli ett med naturen. "
+        link: "#poi-link"
+
+      - id: two-second-poi
+        img: bg-img2
+        title: Håll dig aktiv med vattensporter
+        description: "Ett behagligt klimat och en vattentemperatur mellan 17-24 °C gör det möjligt att utöva ett flertal aktiviteter året runt vid Atlanten. I norr finns det en god chans för surfare att hitta den perfekta vågen, medan sydkusten bjuder på vindsurifing och paddle boarding. Du kan också paddla kanot, både på egen hand eller med guidade turer. Upptäck undervattensvärlden med snorkling och dykning utanför kusten - har du tur kanske du får syn på ett gammalt skeppsvrak fyllt av koraller."
+        link: "#poi-link"
+
+      - id: two-third-poi
+        img: bg-img3
+        title: Val- och delfinsafari
+        description: "Med ett havsdjup på över 3000 meter är Madeira hem till ett rikt havsliv. Fiskar, sköldpaddor och 28 olika val- och delfinarter simmar runt i vattnet kring kusten. Du kan gå på sightseeing året runt för att få se några av dessa marina däggdjur. Bland annat har grindvalar, kaskelottvalar och strimmiga delfiner synts till här."
+        link: "#poi-link"
+
+
+################################################################################
+
+
+
+- id: three
+  title: Färgglada traditioner
+  nav-title: Livsstil
+  count: "3"
+  description: "Ta del av den varma och internationella kulturen som finns på Madeira. Lokalborna här tar fasta på ‘joie de vivre’, vilket är en passion som de gärna delar vidare med sina besökare. Festivaler och event hålls årligen för att fira det kulturrika livet på ön. Upplev huvudstaden Funchal och dess livliga myller på gatorna, där du kan få avnjuta traditionella maträtter till ett glas lokalt vin. "
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: three-first-poi
+        img: bg-img1
+        title: Smaksensationer för alla sinnen
+        description: "Det lokala köket på Madeira är lika härligt som lokalbornas gästvänlighet. Tack vare det havsnära läget kan du förvänta dig förstklassig fisk och skaldjur på din tallrik. Vad sägs om svärdfisk-filé , tonfiskstek eller grillade skålsnäckor? Prova den traditionella 'Espatada' - en grillspett med nötkött och stekt majs som tillbehör, eller den typiska 'Bolodo-Caco', som är inget mindre än bröd med vitlökssmör. Hemmagjord honungskaka till dessert är ett måste."
+        link: "#poi-link"
+
+      - id: three-second-poi
+        img: bg-img2
+        title: "Lokala råvaror, viner och hantverk"
+        description: "Upptäck de högkvalitativa hantverken och broderierna på ön. Tyger som silke och linne är broderade med moderna och traditionella mönster, vilket skapar imponerande detaljer. Madeiras vintradition går också över 500 år tillbaka. Vindruvorna som växer på öns bergssluttningar kan kännas igen tack vare sina speciella aromer och unika karaktär - inte undra på att detta vin är populärt världen över."
+        link: "#poi-link"
+
+      - id: three-third-poi
+        img: bg-img3
+        title: Strosa genom Fungal
+        description: "Skärgårdens huvudstad Fungal är belägen på en bukt vid Madeiras sydkust, och är det största centrumet på ön för turism och kultur. Staden har fått sitt namn efter fänkålen, eftersom denna grönsak växte vilt överallt på ön i början av bosättningen. I staden kan du roa dig med allt från museum och monument till trädgård&shy;sutflykter och promenader längs hamnen. Ett generöst utbud av restauranger, barer och klubbar garanterar ett roande uteliv."
+        link: "#poi-link"
+
+      - id: three-fourth-poi
+        img: bg-img4
+        title: Bondens marknad i Funchal
+        description: "Marknaden ‘Mercado dos Lavradores' äger rum mitt i stadens historiska kärna och är ett av Funchals triumfkort. Byggnaden som marknaden ligger i har en stilfull designkombination av Art Deco och modernism, vilket gör den väl värd ett besök. Låt dig förtrollas av alla de olika aromerna på ön - från den lokala maten, exotiska frukterna, vackra blommorna och regionala kryddorna."
+        link: "#poi-link"
+
+      - id: three-fifth-poi
+        img: bg-img5
+        title: Åktur med Carros de Cesto
+        description: "Om du är ute efter en udda upplevelse i Madeiras huvudstad, är en åktur med 'Carros de Cesto' ett måste. Kärrorna är handgjorda av trä och pilstavar och styrs av så kallade  'Carreiros' - två män klädda i traditionella kostymer. Den fartfyllda turen börjar i distriktet Monte, där du hoppar på den traditionella kärran och åker nedför en backe. Den roliga upplevelsen tar dig tillbaka till barndomen på nolltid. "
+        link: "#poi-link"
+
+      - id: three-sixth-poi
+        img: bg-img6
+        title: Karnevalfirande
+        description: "Varje år hålls olika festivaler på ön, och i början av året hålls en färgglad karneval med kostymer och världsberömda parader. Blomfestivalen firar in våren, med musikkonserter runtom i staden och gatorna dekorerade med blommor. Festival do Atlântico pågår under sommaren och bjuder på pyromusikaliska shower, medan vinfestivalen sker under hösten då vindruvsskörden pågår. Om du är på Madeira kring jul och nyår kan du beskåda en av de största fyrverkerierna i världen."
+        link: "#poi-link"
+
+
+
+################################################################################
+
+
+
+- id: four
+  title: Strandparadiset Porto&nbsp;Santo
+  nav-title: "Porto Santo"
+  count: "4"
+  description: "Porto Santo är den näst största av öarna som tillhör Madeira och ligger cirka 50 km nordost om huvudön. Denna himmelska ö är mest känd för sin vackra, långa sandstrand. Porto Santos sköna landskap är även perfekt för vandring eller cykling. "
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: four-first-poi
+        img: bg-img1
+        title: Den gyllene stranden
+        description: "Framför det turkosblåa, kristallklara havet hittar du ett litet paradis för soldyrkare på Porto Santo. Den ungefär 9 km långa gyllene sandstranden tar upp nästan hela sydkusten på den lilla ön och har utsetts till Portugals bästa sandstrand. Här kan du njuta av vackert väder, solen och ljudet av havet året runt."
+        link: "#poi-link"
+
+      - id: four-second-poi
+        img: bg-img2
+        title: Färgglatt havsliv
+        description: "Porto Santos är ett populärt dykmål på grund av dess behagliga temperatur och klara vatten. Här kan du uppleva en fantastisk utsikt från ett djup på upp till 40 meter. Populära platser inkluderar de sjunkna fartygen Madeirense och Corveta General Pereira d'Eça som har använts för att skapa konstgjorda rev. Ett artrikt marint liv samlas här med havsabborrar, salpor, kungfiskar och bärnstenar."
+        link: "#poi-link"
+
+      - id: four-third-poi
+        img: bg-img3
+        title: "Koppla av i naturen"
+        description: "Förutom sin vackra strand är Porto Santo också känd som ett resmål för wellness och avkoppling. Den mineralrika sanden har beprövade terapeutiska egenskaper. En vistelse här sägs ha en positiv effekt på ortopediska och reumatiska problem. Havsvattnet från Porto Santo används också för terapeutiska ändamål, till exempel i thalassoterapi, på grund av dess höga innehåll av strontium, krom och jod. Även öns dricksvatten är rikt på hälsofrämjande mineraler."
+        link: "#poi-link"
